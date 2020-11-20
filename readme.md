@@ -1,6 +1,7 @@
 RandomUsers_WithTweets_Sentiments JSON SCHEMA:
 
-```{
+```
+{
     "data": [
         {
             "username": "3rachaed",
